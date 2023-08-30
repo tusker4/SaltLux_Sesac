@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04ff95e4-b9e8-4c59-8a90-99d76db00b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/DAY2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/DateByMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/DateByMonth2_Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/ScoreSumAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2/ScoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Day3_Array2dimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/MinMaxPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/MinMaxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/PlusMinusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/ScoreTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="04ff95e4-b9e8-4c59-8a90-99d76db00b82" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,11 +81,23 @@
       <workItem from="1693268555406" duration="22250000" />
       <workItem from="1693306147056" duration="2102000" />
       <workItem from="1693357343823" duration="16471000" />
+      <workItem from="1693386227366" duration="303000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
