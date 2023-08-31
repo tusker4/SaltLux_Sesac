@@ -7,10 +7,10 @@ package Day3;
 public class Student {
     public static void main(String[] args) {
 
-        System.out.println();
-        System.out.println(name);
-        System.out.println(phone);
-        System.out.println(gender);
+//        System.out.println();
+//        System.out.println(name);
+//        System.out.println(phone);
+//        System.out.println(gender);
 
     }
 
