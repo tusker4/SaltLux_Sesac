@@ -1,4 +1,4 @@
-package test.com.oopsw.simple;
+package Day4.simple;
 
 public class StudenTest {
     //    일반적으로 member data private 를 권장

@@ -1,6 +1,4 @@
-package test.com.oopsw.simple;
-
-import Day4.Teacher;
+package Day4.simple;
 
 public class TeacherTest {
 

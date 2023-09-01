@@ -1,4 +1,4 @@
-package test.com.oopsw.simple;
+package Day4.simple;
 
 import Day4.실습3.해답.Employee;
 import Day4.실습3.해답.Manager;

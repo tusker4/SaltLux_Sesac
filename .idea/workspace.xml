@@ -5,23 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04ff95e4-b9e8-4c59-8a90-99d76db00b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Practice_Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/실습3/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/실습3/CompanyEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/실습3/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/실습3/해답/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/실습3/해답/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/Practice_TeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/StudenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/TeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/companyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/CompanyDepartmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/CustomerUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/MenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/OOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/customer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTest_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTest_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Member2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Member2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/NameMinLengthException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/PointScoreException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO/SysyemIOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/실습2/customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/실습2/customerInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/Practice_TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/Practice_TeacherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/StudenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/StudenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/TeacherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/companyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/companyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,50 +62,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/work/test2/src/Day4/실습3/해답",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/work/test2/src/Main.java",
-    "prettierjs.PrettierConfiguration.Package": "C:\\work\\test2",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/work/test2/src/Day4/실습3/해답&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/work/test2/src/Main.java&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\work\\test2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\work\test2\src\Day4\실습3\해답" />
       <recent name="C:\work\test2\src\Day4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\test2\src\Exception" />
       <recent name="C:\work\test2\src\test\com\oopsw\simple" />
       <recent name="C:\work\test2\src\Day4\실습3\해답" />
       <recent name="C:\work\test2\src\해답" />
       <recent name="C:\work\test2\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Day4" />
+      <recent name="Exception" />
       <recent name="test.com.oopsw.simple" />
+      <recent name="Day4" />
       <recent name="Day3" />
       <recent name="Day2" />
-      <recent name="" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.com.oopsw.simple.EmployeeTest" />
+      <option name="MAIN_CLASS_NAME" value="Day4.simple.EmployeeTest" />
       <module name="test2" />
       <extension name="coverage">
         <pattern>
@@ -130,7 +140,8 @@
       <workItem from="1693306147056" duration="2102000" />
       <workItem from="1693357343823" duration="16471000" />
       <workItem from="1693386227366" duration="451000" />
-      <workItem from="1693445912656" duration="17783000" />
+      <workItem from="1693445912656" duration="18216000" />
+      <workItem from="1693529020544" duration="19241000" />
     </task>
     <servers />
   </component>
