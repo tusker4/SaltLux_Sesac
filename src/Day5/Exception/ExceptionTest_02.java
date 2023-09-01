@@ -1,4 +1,4 @@
-package Exception;
+package Day5.Exception;
 
 public class ExceptionTest_02 {
     public static void main(String[] args) throws ClassNotFoundException {

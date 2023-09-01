@@ -1,4 +1,4 @@
-package Exception;
+package Day5.Exception;
 
 public class ExceptionTest_01 {
     public static void main(String[] args) {

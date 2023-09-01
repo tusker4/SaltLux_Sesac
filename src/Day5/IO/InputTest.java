@@ -1,4 +1,4 @@
-package IO;
+package Day5.IO;
 
 import java.io.InputStream;
 import java.io.InputStreamReader;

@@ -1,4 +1,4 @@
-package IO;
+package Day5.IO;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

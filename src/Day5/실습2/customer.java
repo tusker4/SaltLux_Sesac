@@ -1,4 +1,4 @@
-package 실습2;
+package Day5.실습2;
 
 public class customer {
     private String customerName;

@@ -1,4 +1,4 @@
-package Exception;
+package Day5.Exception;
 
 public class PointScoreException extends Exception {
     public PointScoreException(String messgage) {

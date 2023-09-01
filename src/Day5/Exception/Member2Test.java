@@ -1,4 +1,4 @@
-package Exception;
+package Day5.Exception;
 
 public class Member2Test {
 

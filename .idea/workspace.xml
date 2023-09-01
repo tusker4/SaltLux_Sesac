@@ -5,32 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04ff95e4-b9e8-4c59-8a90-99d76db00b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day5/CompanyDepartmentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/CustomerUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/MenuTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/OOPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/customer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTest_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionTest_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Member2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/Member2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/NameMinLengthException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception/PointScoreException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IO/InputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IO/SysyemIOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/oopsw/simple/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/실습2/customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/실습2/customerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Practice_CustomerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Practice_admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day5/Practice_customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/Practice_TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/Practice_TeacherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/StudenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/StudenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/TeacherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/TeacherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/com/oopsw/simple/companyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/simple/companyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day5/CompanyDepartmentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day5/point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/ExceptionTest_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/Exception/ExceptionTest_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/ExceptionTest_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/Exception/ExceptionTest_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/Member2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/Exception/Member2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/Member2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/Exception/Member2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/NameMinLengthException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/Exception/NameMinLengthException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/PointScoreException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/Exception/PointScoreException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/IO/InputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/SysyemIOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/IO/SysyemIOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/실습2/customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/실습2/customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/실습2/customerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5/실습2/customerInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +87,11 @@
       <recent name="C:\work\test2\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day5" />
       <recent name="Exception" />
       <recent name="test.com.oopsw.simple" />
       <recent name="Day4" />
       <recent name="Day3" />
-      <recent name="Day2" />
     </key>
   </component>
   <component name="RunManager">
@@ -141,7 +131,7 @@
       <workItem from="1693357343823" duration="16471000" />
       <workItem from="1693386227366" duration="451000" />
       <workItem from="1693445912656" duration="18216000" />
-      <workItem from="1693529020544" duration="19241000" />
+      <workItem from="1693529020544" duration="22290000" />
     </task>
     <servers />
   </component>
