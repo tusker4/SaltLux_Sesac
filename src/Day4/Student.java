@@ -12,6 +12,7 @@ public class Student extends Person {
     public Student(String studentNumber, String name, char gender) {
         super(name, gender);
         setStudentNumber(studentNumber);
+//        this.StudentNumber = StudentNumber
         //setName(name);
         //setGender(gender);
     }
