@@ -32,10 +32,7 @@
 
 # print(num_char)
 
-#  13번 문제
-N = input()
-print(len(N))
+# 20 번 문제
 
-print(f"선두 : ")
-
-
+def printBit(num: int):
+    op = 1 
