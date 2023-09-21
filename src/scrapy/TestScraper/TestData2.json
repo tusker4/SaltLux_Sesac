@@ -1,0 +1,91 @@
+[
+  { "title": "A Light in the Attic", "price": "£51.77" },
+  { "title": "In Her Wake", "price": "£12.84" },
+  { "title": "Slow States of Collapse: Poems", "price": "£57.31" },
+  { "title": "The Nameless City (The Nameless City #1)", "price": "£38.16" },
+  {
+    "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+    "price": "£13.61"
+  },
+  {
+    "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+    "price": "£57.36"
+  },
+  {
+    "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "price": "£30.81"
+  },
+  { "title": "The Shadow Hero (The Shadow Hero)", "price": "£33.14" },
+  {
+    "title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+    "price": "£32.00"
+  },
+  { "title": "Modern Romance", "price": "£28.26" },
+  { "title": "Dark Notes", "price": "£19.19" },
+  {
+    "title": "Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity",
+    "price": "£38.20"
+  },
+  {
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "price": "£16.88"
+  },
+  { "title": "Swell: A Year of Waves", "price": "£45.58" },
+  { "title": "My Name Is Lucy Barton", "price": "£41.56" },
+  { "title": "Hold Your Breath (Search and Rescue #1)", "price": "£28.82" },
+  { "title": "Code Name Verity (Code Name Verity #1)", "price": "£22.13" },
+  { "title": "All the Light We Cannot See", "price": "£29.87" },
+  {
+    "title": "The Midnight Watch: A Novel of the Titanic and the Californian",
+    "price": "£26.20"
+  },
+  { "title": "Hide Away (Eve Duncan #20)", "price": "£11.84" },
+  { "title": "Mothering Sunday", "price": "£13.34" },
+  { "title": "Without Shame", "price": "£48.27" },
+  {
+    "title": "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster",
+    "price": "£35.92"
+  },
+  { "title": "Roller Girl", "price": "£14.10" },
+  {
+    "title": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+    "price": "£52.86"
+  },
+  { "title": "The Story of Art", "price": "£41.14" },
+  { "title": "Nightstruck: A Novel", "price": "£50.35" },
+  { "title": "Benjamin Franklin: An American Life", "price": "£48.19" },
+  { "title": "The Barefoot Contessa Cookbook", "price": "£59.92" },
+  {
+    "title": "World Without End (The Pillars of the Earth #2)",
+    "price": "£32.97"
+  },
+  { "title": "The Dream Thieves (The Raven Cycle #2)", "price": "£34.50" },
+  {
+    "title": "Isla and the Happily Ever After (Anna and the French Kiss #3)",
+    "price": "£48.13"
+  },
+  { "title": "Alight (The Generations Trilogy #2)", "price": "£58.59" },
+  { "title": "Shopaholic Ties the Knot (Shopaholic #3)", "price": "£48.39" },
+  { "title": "Far From True (Promise Falls Trilogy #2)", "price": "£34.93" },
+  { "title": "Walk the Edge (Thunder Road #2)", "price": "£32.36" },
+  { "title": "The Silkworm (Cormoran Strike #2)", "price": "£23.05" },
+  {
+    "title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "price": "£33.92"
+  },
+  { "title": "The Da Vinci Code (Robert Langdon #2)", "price": "£22.96" },
+  { "title": "Seven Days in the Art World", "price": "£52.33" },
+  {
+    "title": "Notes from a Small Island (Notes From a Small Island #1)",
+    "price": "£40.17"
+  },
+  { "title": "Jurassic Park (Jurassic Park #1)", "price": "£44.97" },
+  { "title": "Girl in the Blue Coat", "price": "£46.83" },
+  { "title": "Civilization and Its Discontents", "price": "£59.95" },
+  { "title": "Annie on My Mind", "price": "£36.83" },
+  { "title": "Fruits Basket, Vol. 2 (Fruits Basket #2)", "price": "£11.64" },
+  { "title": "The Secret Healer", "price": "£34.56" },
+  { "title": "The Bhagavad Gita", "price": "£57.49" },
+  { "title": "On the Road (Duluoz Legend)", "price": "£32.36" },
+  { "title": "Frankenstein", "price": "£38.00" }
+]
