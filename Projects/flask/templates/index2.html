@@ -1,0 +1,66 @@
+<!-- ajax 방식으로 서버에 데이터를 전송 -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- 외부 js를 참조하여 jQuery를 바로 사용할수 있게 처리됨 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    헬로 플라스크, 12asAS~!~#
+
+    <div>
+      <fieldset>
+        <textarea rows="15" cols="30" name="ori_text"> </textarea>
+        <br />
+        <button id="detectBtn">언어감지</button>
+        <p>
+          언어감지결과 :
+          <span id="detect_lang_code"> </span>
+        </p>
+      </fieldset>
+    </div>
+    <!-- js는 html에 extend(외부참조), inline(tag 내부), script 태그 내부 -->
+    <script>
+      // head 태그 내부, 조작하고 싶은 태그 밑, body 태그 닫히기 직전(선호)
+      // body 태그 닫히기 직전 => html이 메모리에 모두 로드되었다, 화면에 모든것이 보인다.
+      // js를 손쉽게 사용하기 위해 js 프레임웍을 사용(jQuery)
+      // js 사용 원칙 : 요소를 특정(css selector) => 이벤트 처리
+      // 요소를 특정 => $('키워드' or 'css selecor | xpath')
+      // document.querySelector('#detectBtn')
+      // 버튼에 클릭 이벤트를 연결하여, 이벤트 처리 루틴 구현
+      // $('#detectBtn').on('click', function(){})
+      $("#detectBtn").on("click", () => {
+        console.log("언어감지버튼 클릭");
+        // 원문 텍스트가 들어간 textarea 특정
+        let ori_text = $("[name=ori_text]").val();
+        console.log(ori_text);
+        // 화면처리 -> 입력한 내용 화면에서만 삭제
+        $("[name=ori_text]").val("");
+        // 서버로 전송 : ajax -> 데이터는 키 = 값 형태 => 응답을 json으로 받겠다.
+        $.post({
+          url: "/ssgo", // 데이터를 보내는 주소
+          data: "ori_text=" + ori_text, // 서버로 보내는 데이터
+          dataType: "json", // 응답데이터는 json으로 자동 처리
+          success: (res) => {
+            console.log("성공", res);
+            // 1. span 요소 특정
+            // console.log($("#detect_lang_code"));
+            $("#detect_lang_code").html(res.ko);
+          }, // 통신성공, json 변환 성공하면 호출
+          error: (err) => {
+            console.log("실패", err);
+          }, // 통신실패, json 변환 실패... 중 하나만 걸려도 호출됨
+        });
+      });
+
+      /*
+      function 함수명(){
+        내용
+      }
+      */
+    </script>
+  </body>
+</html>
