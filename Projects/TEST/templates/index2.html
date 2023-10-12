@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  </head>
+  <body>
+    헬로 Flask2 , 다시한번 만들어보는 중이야2
+    <div>
+      <fieldset>
+        <textarea rows="15" cols="30" name="ori_text"></textarea>
+        <br />
+        <button id="detectBtn">언어감지</button>
+        <p>
+          언어감지결과 :
+          <span id="detect_lang_code"> </span>
+        </p>
+      </fieldset>
+    </div>
+    <script>
+      $("#detectBtn").on("click", () => {
+        let ori_text = $("[name=ori_text]").val("");
+        $.post({
+          url: "/ssgo",
+          data: "ori_text=" + ori_text,
+          dataType: "json",
+          success: (res) => {
+            console.log("성공", res);
+            $("#detect_lang_code").html(res.ko);
+          },
+          error: (err) => {
+            console.log("실패", err);
+          },
+        });
+      });
+    </script>
+  </body>
+</html>

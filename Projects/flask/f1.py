@@ -4,15 +4,13 @@ from flask import Flask
 
 # step2. 플라스크 객체 생성
 app = Flask(__name__)
-print(__name__)
-
 # step3. 특정 주소를 요청 -> 해석 -> 누가처리할지 지정 -> 서버가 응답 => 라우팅
 @app.route('/')
 def home():
-    return 'hello flask 2223333333T4444TTTTTTTTTT'
+    return '환영합니다.'
 
 # step4. 서버가동
 if __name__ == '__main__': # 직접 실행한다면
-    # debug=True : 수정 -> 저장 -> 자동리로드
+# debug=True : 수정 -> 저장 -> 자동리로드
     app.run(debug=True)
 
