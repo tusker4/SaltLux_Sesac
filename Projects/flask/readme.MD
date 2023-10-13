@@ -34,7 +34,7 @@
                 - (was) 프롬프트(경로) 로 바뀜
                     - (was) > pip list
     - 필요한 패키지 설치 -> 특정버전 (개발시) 기록 -> requirements.txt
-        - 명령어로 생성하기
+        - 명령어로 생성하기 (코랩에서 진행 )
             - pip freeze > requirements.txt
         - 필요한 것만 카피해서 로컬 requirements.txt 수정
 
@@ -52,8 +52,10 @@
         - (was) C:\Users\USER\Desktop\projects> pip install -r ./flask/requirements.txt
         - (was) C:\Users\USER\Desktop\projects> pip list
     이것을 간단히 하려면 Docker를 배워서 하면 된다.
+    컨테이너를 만들어서 버전을 똑같게 한다.
 
 # 최초코드
+
     - f1.py 참고
     - template.py 파일을 기본형으로 사용한다.
 

@@ -54,6 +54,8 @@ def predict( data:list ) -> dict:
                "ko"      :label[pred_y[0]]
                }
     
+# x.py 를 직접 수행 : __name__ => '__main__'
+# x.py 를 다른 py가 모듈 가져오기 : __name__ => 'X'
 
 if __name__ == '__main__':
     # 단위 테스트 용도
